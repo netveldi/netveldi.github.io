@@ -11,5 +11,14 @@
 	<atom:link href="https://netveldi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Works</title>
+      <link>https://netveldi.github.io/works/</link>
+      <pubDate>Fri, 05 Jun 2020 14:45:43 -0500</pubDate>
+      
+      <guid>https://netveldi.github.io/works/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
